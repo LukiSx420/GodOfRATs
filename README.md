@@ -9,8 +9,11 @@ This is one of the **best RATs** I have ever coded...
   - **screenshare** at almost 0.5fps!!!
   - **view the clients screen** with a screen shot tool
 > It can do all of this while hiding your IP address!
+> 
 > `HoW?!?/` Well, the session is not directly created with the client, but all packets are forwarded thru the server...
+> 
 > `Is THaT a GOoD ThinG?!?$^?&` YES! That's a great thing! As it will be a LOT harded to track the attacker...
+> 
 > `cAN I HaCK SomEONe WitH THis??@?!` NO! But actually yes, you technically could hack someone, but keep in mind that **I will NOT be responsible for the damage you do using MY tool!** As this was created for penetration testing purposes only!
 
 ## Setup
